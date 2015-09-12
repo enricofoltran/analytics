@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/enricofoltran/analytics",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3",
+			"Comment": "v1.1.0",
+			"Rev": "3b3f1d01b2696af5501697c35629048c227586ab"
+		}
+	]
+}
